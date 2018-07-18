@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+.h1 {
+    color:blue;
+    text-align:center;
+    border-style:solid;
+    border-color:pink;
+    border-width: thick;
+}
+
+.h2 {
+    color:blue;
+    text-align:center;
+    border-style:solid;
+    border-color:pink;
+}
+
+.p {
+   color:blue;
+    text-align:center;
+    border-style:solid;
+    border-color:pink;
+}
+
+.link {
+    color:blue;
+    text-align:center;
+    border-style:solid;
+    border-color:pink;
+}
+
+.ul {
+    color:blue;
+    text-align:center;
+    border-style:solid;
+    border-color:pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*color - blue*/
+/*text align - center*/
+/*border - pink*/
