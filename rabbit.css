@@ -1,6 +1,7 @@
 body{
     background-color:lightyellow;
-    font-family: arial;
+    font-size: 12px;
+    font-family:arial, sans-serif;
 }
 
 .yline{
@@ -22,11 +23,15 @@ body{
 #p4{
     color:red;
     text-align:center;
-    font-size:30px
+    font-family:courier;
+    font-style:italic;
+    font-weight:bold;
+    font-size: 200%;
+    line-height: 1.5em;
 }
 
 #li{
-    color:#33FFFF;
+    color:turquoise;
 }
 
 #li2{
