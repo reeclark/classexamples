@@ -1,0 +1,28 @@
+body{
+    background-color:lightyellow;
+}
+
+.yline{
+    background-color:yellow;
+}
+
+#p1{
+    color:green;
+}
+
+#p2{
+    color:red;
+}
+
+#p3{
+    color:blue;
+}
+
+#p4{
+    color:red;
+    text-align: center;
+}
+
+#ol{
+    color:purple;
+}
