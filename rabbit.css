@@ -1,5 +1,6 @@
 body{
     background-color:lightyellow;
+    font-family: arial;
 }
 
 .yline{
@@ -20,7 +21,16 @@ body{
 
 #p4{
     color:red;
-    text-align: center;
+    text-align:center;
+    font-size:30px
+}
+
+#li{
+    color:#33FFFF;
+}
+
+#li2{
+    color:#841639;
 }
 
 #ol{
